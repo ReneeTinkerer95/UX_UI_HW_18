@@ -133,25 +133,5 @@ a {
     color: darkgrey;
   }
 
-.otherPage {
-    color: #FFFFFF;
-    text-decoration: none;
-  }
 
-  #emailicon {
-    width: 46px;
-    height: 44px;
-    
-    margin-left: 80px;
-    
-    background: url(emailicon.png) 0 0;
-  }
-
-  #callicon {
-    width: 50px;
-    height: 50px;
-    
-    margin-left: 80px;
-    
-    background: url(callicon.png) 0 0;
-  }
+ 
